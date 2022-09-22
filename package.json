@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/abulyousuf/todo-ts/issues"
   },
-  "homepage": "https://github.com/abulyousuf/todo-ts#readme"
+  "homepage": "https://github.com/abulyousuf/todo-ts#readme",
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
 }
